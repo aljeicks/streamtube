@@ -1,0 +1,46 @@
+@charset "utf-8";
+*{
+	direction:rtl;
+	text-align:right;
+}
+.main-menu li *{
+	direction:ltr;
+}
+#player-embed{
+	text-align:center;
+}
+.input-group{
+	direction:ltr;
+}
+.headline .htitle .hicon{
+	float:right;
+}
+.headline .htitle .hicon .first-tex{
+	margin-left:0;
+	margin-right:10px;
+}
+#head-carousel .video-item .item-head h3{
+	text-align:center;
+}
+.smart-control{
+	direction:ltr;
+	margin-left:10px;
+}
+.video-item .item-meta span {
+	margin-right: 0px;
+	margin-left: 20px;
+}
+.tm_widget_categories ul li a,.tm_widget_categories ul li p {
+	margin-left: 0px;
+	margin-right: 20px;
+}
+.widget.widget-border.widget_nav_menu .menu .menu-item:before {
+	margin-right: 0px;
+	margin-left: 10px;
+	transform:rotate(180deg);
+	-webkit-transform:rotate(180deg);
+}
+.readmore .fa-angle-right{
+	transform:rotate(180deg);
+	-webkit-transform:rotate(180deg);
+}
