@@ -1,8 +1,8 @@
--- MySQL dump 10.13  Distrib 5.6.15, for Win32 (x86)
+-- MySQL dump 10.13  Distrib 5.5.44, for debian-linux-gnu (x86_64)
 --
 -- Host: localhost    Database: streamtube_tvshows
 -- ------------------------------------------------------
--- Server version	5.6.15-log
+-- Server version	5.5.44-0ubuntu0.12.04.1
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -580,4 +580,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2015-09-30 10:44:03
+-- Dump completed on 2015-10-09 11:03:20
